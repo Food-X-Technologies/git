@@ -157,3 +157,6 @@ My why: To write great code and make the world a better place.
 
 Name: Russell Smiley
 My why: Studying the intersection of human behaviour and technology and learn new things.
+
+Name: Victor Ramirez
+My Why: I want to become the best version of myself and improve the lives of others while doing so.
